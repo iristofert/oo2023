@@ -21,3 +21,7 @@ function ebavajalikTeisendus (meeter:number) : string[] {
    return vastus;
 }
 console.log(ebavajalikTeisendus(1))
+
+/* console.log(ebavajalikTeisendus(5))
+["0.02485262394003559 furlongi", "2209.116318853911 potrzebiet", "3.0303030303030303 altuvet", 
+"0.0035714285714285713 sheppeyt", "2.9411764705882355 smooti", "56.17977528089887 wifflet"] */
